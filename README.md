@@ -1,6 +1,6 @@
 # Knowledge Graph Generator
 
-A simple app to generate Knowledge Graphs (KGs) in accordance to the user's prompts and inputs.
+A simple app to generate Knowledge Graphs (KGs) in accordance to the user's prompts and inputs utilizing OpenAI's LLM services.
 
 ## Setup
 
