@@ -66,3 +66,5 @@ To run tests, run the following command
 **Server:** Node, Nest
 
 **Database:** Neo4j
+
+**Others:** Azure OpenAI Service
